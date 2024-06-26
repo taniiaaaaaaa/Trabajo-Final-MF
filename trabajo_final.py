@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1RXqX_7OQeYI_RFoXQ_mrruaZd8Kg5-Np
 """
 
-pip install yfinance pandas numpy scipy
+#pip install yfinance pandas numpy scipy
 
-pip install yfinance pandas matplotlib
+#pip install yfinance pandas matplotlib
 
 import yfinance as yf
 import pandas as pd
